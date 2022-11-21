@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 ## My projects
 Check out a few of my projects
 ### Timelapse  
+![timelapse.awot.dev](https://timelapse.awot.dev)
 ![Top Langs](https://skillicons.dev/icons?i=svelte,py,tailwind)
-### League of Legends S Tracker   
+### League of Legends S Tracker  
+![lol.awot.dev](https://lol.awot.dev)
 ![Top Langs](https://skillicons.dev/icons?i=nextjs,react,tailwind)
 ### "Social" Poll Creator  
+![poll.awot.dev](https://poll.awot.dev)
 ![Top Langs](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind)

@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Awolize - I'm a full stack developer. I'm interested in development and making life easier through software (and some hardware!). I work on random projects on my free time, please look around.
 
 <!--
 **Awolize/Awolize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! I'm Awolize. 
-
 <div align="center">
 
-![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,py,nodejs,react,postgres,bash)
+![Top Langs](https://skillicons.dev/icons?i=js,ts,nextjs,html,css,py,nodejs,react,postgres,git,bash,arduino,docker,flutter,grafana,kubernetes,redux,tailwind,vscode)
 
 </div>
 

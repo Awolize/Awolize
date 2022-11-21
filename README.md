@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey! I'm Awolize. 
+
+<div align="center">
+
+![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,py,nodejs,react,postgres,bash)
+
+</div>
+
+## My projects
+Check out a few of my projects

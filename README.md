@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## My projects
 Check out a few of my projects
 ### Timelapse  
-![Top Langs](https://skillicons.dev/icons?i=next,nodejs,tailwind)
+![Top Langs](https://skillicons.dev/icons?i=svelte,py,tailwind)
 ### League of Legends S Tracker   
 ![Top Langs](https://skillicons.dev/icons?i=nextjs,react,tailwind)
 ### "Social" Poll Creator  

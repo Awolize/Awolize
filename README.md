@@ -29,4 +29,4 @@ Check out a few of my projects
 ### League of Legends S Tracker   
 ![Top Langs](https://skillicons.dev/icons?i=nextjs,react,tailwind)
 ### "Social" Poll Creator  
-![Top Langs](https://skillicons.dev/icons?i=nextjs,react,tailwind)
+![Top Langs](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind)

@@ -11,8 +11,8 @@ Check out a few of my projects
 ![Tech](https://go-skill-icons.vercel.app/api/icons?i=tanstack,react,typescript,postgresql,drizzle,pnpm,docker,redis)
 
 ### [Apanana Leaderboard](https://apanana.awot.dev/)  
-![Tech](https://go-skill-icons.vercel.app/api/icons?i=react,typescript)
-A leaderboard for [Apanana](https://store.steampowered.com/app/4429480/Apanana/), a game by Martin Tranberg.
+![Tech](https://go-skill-icons.vercel.app/api/icons?i=tanstack,react,typescript,postgresql,drizzle,pnpm,docker)  
+A leaderboard for [Apanana](https://store.steampowered.com/app/4429480/Apanana/), a steam game by Martin Tranberg.
 
 ## Deprecated projects
 
